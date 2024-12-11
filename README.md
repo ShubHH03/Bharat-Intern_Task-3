@@ -1,2 +1,2 @@
-# Bharat-Intern TASK-3
+# Netflix Clone
 Netflix Homepage Clone
